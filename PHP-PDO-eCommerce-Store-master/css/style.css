@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "socicon";
+  src:url("fonts/socicon.eot");
+  src:url("fonts/socicon.eot?#iefix") format("embedded-opentype"),
+      url("fonts/socicon.woff") format("woff"),
+      url("fonts/socicon.ttf") format("truetype"),
+      url("fonts/socicon.svg#socicon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  padding-top: 50px;
+  font-size: 18px;
+  text-align: center;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+
+
+
+.sl li {
+	display: inline-block;
+}
+
+#copyright{
+	font-size:0.7em;
+	text-align:center;
+	padding-bottom:4em;
+}
+#copyright-fix{
+	width:80%;
+	margin: 0 auto;
+}

@@ -10,7 +10,7 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 
-vasimwalikar.s@gmail.com
+vasim143s@gmail.com
 9632............
 
 https://dashboard.tawk.to/login
